@@ -1,1 +1,0 @@
-{include file="$client_tplfooter.tpl"}

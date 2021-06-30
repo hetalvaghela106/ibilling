@@ -1,1 +1,0 @@
-{include file="../../../application/plugins/$_include.tpl"}
